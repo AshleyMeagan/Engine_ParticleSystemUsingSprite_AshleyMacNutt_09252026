@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 412ec1bb808f82140b9667a1227150bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2223167130567176359
+    second: Rain_Dropping_Sprite_0
+  - first:
+      213: 1740168673020905736
+    second: Rain_Dropping_Sprite_1
+  - first:
+      213: 8164418565819104694
+    second: Rain_Dropping_Sprite_2
+  - first:
+      213: 3348034545559329391
+    second: Rain_Dropping_Sprite_3
+  - first:
+      213: -3225329192553771886
+    second: Rain_Dropping_Sprite_4
+  - first:
+      213: 345160219565300686
+    second: Rain_Dropping_Sprite_5
+  - first:
+      213: -6038979418916700752
+    second: Rain_Dropping_Sprite_6
+  - first:
+      213: -2627513494127920726
+    second: Rain_Dropping_Sprite_7
+  - first:
+      213: -8877862290331020342
+    second: Rain_Dropping_Sprite_8
+  - first:
+      213: 1898363360623247509
+    second: Rain_Dropping_Sprite_9
+  - first:
+      213: -5011538814538496649
+    second: Rain_Dropping_Sprite_10
+  - first:
+      213: 477863395024073413
+    second: Rain_Dropping_Sprite_11
+  - first:
+      213: 5826528622412325783
+    second: Rain_Dropping_Sprite_12
+  - first:
+      213: 8697149481785954465
+    second: Rain_Dropping_Sprite_13
+  - first:
+      213: -6221974666408762272
+    second: Rain_Dropping_Sprite_14
+  - first:
+      213: -1725436500822443988
+    second: Rain_Dropping_Sprite_15
+  - first:
+      213: 8063047050799525513
+    second: Rain_Dropping_Sprite_16
+  - first:
+      213: -5482673820469305939
+    second: Rain_Dropping_Sprite_17
+  - first:
+      213: 86601034743077539
+    second: Rain_Dropping_Sprite_18
+  - first:
+      213: -4109810132977011923
+    second: Rain_Dropping_Sprite_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 239
+        width: 255
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f083a0649b521e0800000000000000
+      internalID: -2223167130567176359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 207
+        width: 252
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8098ca43032562810800000000000000
+      internalID: 1740168673020905736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 166
+        width: 252
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd704dbd67dd4170800000000000000
+      internalID: 8164418565819104694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 114
+        width: 254
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6adcc73eab967e20800000000000000
+      internalID: 3348034545559329391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 106
+        width: 253
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c822a10345d33d0800000000000000
+      internalID: -3225329192553771886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 90
+        width: 255
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb19c514614ac400800000000000000
+      internalID: 345160219565300686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 222
+        width: 255
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd3391e63c313ca0800000000000000
+      internalID: -6038979418916700752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 249
+        width: 255
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9b5f3f562398bd0800000000000000
+      internalID: -2627513494127920726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 252
+        width: 254
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3dbfba84f7bc480800000000000000
+      internalID: -8877862290331020342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 253
+        width: 254
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590c0942b67585a10800000000000000
+      internalID: 1898363360623247509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 264
+        width: 254
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775c95d1000737ab0800000000000000
+      internalID: -5011538814538496649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 80
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c27297d936b1a600800000000000000
+      internalID: 477863395024073413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 207
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793688c69ecfbd050800000000000000
+      internalID: 5826528622412325783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 195
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0135ccf5b72b870800000000000000
+      internalID: 8697149481785954465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 196
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064e93f910b17a9a0800000000000000
+      internalID: -6221974666408762272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 82
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c283cfde4a40e08e0800000000000000
+      internalID: -1725436500822443988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 79
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eaa26a292b5ef60800000000000000
+      internalID: 8063047050799525513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 174
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadd79f6531a9e3b0800000000000000
+      internalID: -5482673820469305939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 81
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aada09ae2ba33100800000000000000
+      internalID: 86601034743077539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rain_Dropping_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 83
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23ba91757507f6c0800000000000000
+      internalID: -4109810132977011923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rain_Dropping_Sprite_0: -2223167130567176359
+      Rain_Dropping_Sprite_1: 1740168673020905736
+      Rain_Dropping_Sprite_10: -5011538814538496649
+      Rain_Dropping_Sprite_11: 477863395024073413
+      Rain_Dropping_Sprite_12: 5826528622412325783
+      Rain_Dropping_Sprite_13: 8697149481785954465
+      Rain_Dropping_Sprite_14: -6221974666408762272
+      Rain_Dropping_Sprite_15: -1725436500822443988
+      Rain_Dropping_Sprite_16: 8063047050799525513
+      Rain_Dropping_Sprite_17: -5482673820469305939
+      Rain_Dropping_Sprite_18: 86601034743077539
+      Rain_Dropping_Sprite_19: -4109810132977011923
+      Rain_Dropping_Sprite_2: 8164418565819104694
+      Rain_Dropping_Sprite_3: 3348034545559329391
+      Rain_Dropping_Sprite_4: -3225329192553771886
+      Rain_Dropping_Sprite_5: 345160219565300686
+      Rain_Dropping_Sprite_6: -6038979418916700752
+      Rain_Dropping_Sprite_7: -2627513494127920726
+      Rain_Dropping_Sprite_8: -8877862290331020342
+      Rain_Dropping_Sprite_9: 1898363360623247509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
