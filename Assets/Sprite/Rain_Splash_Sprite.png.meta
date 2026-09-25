@@ -139,12 +139,12 @@ TextureImporter:
       name: Rain_Splash_Sprite_0
       rect:
         serializedVersion: 2
-        x: 70
-        y: 13
-        width: 173
-        height: 117
+        x: 0
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -161,12 +161,12 @@ TextureImporter:
       name: Rain_Splash_Sprite_1
       rect:
         serializedVersion: 2
-        x: 356
-        y: 11
-        width: 210
-        height: 122
+        x: 300
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -183,12 +183,12 @@ TextureImporter:
       name: Rain_Splash_Sprite_2
       rect:
         serializedVersion: 2
-        x: 877
-        y: 109
-        width: 8
-        height: 8
+        x: 600
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -205,12 +205,12 @@ TextureImporter:
       name: Rain_Splash_Sprite_3
       rect:
         serializedVersion: 2
-        x: 627
-        y: 8
-        width: 264
-        height: 88
+        x: 900
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -227,12 +227,12 @@ TextureImporter:
       name: Rain_Splash_Sprite_4
       rect:
         serializedVersion: 2
-        x: 748
-        y: 88
-        width: 14
-        height: 16
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -249,12 +249,12 @@ TextureImporter:
       name: Rain_Splash_Sprite_5
       rect:
         serializedVersion: 2
-        x: 872
-        y: 94
-        width: 12
-        height: 13
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -267,165 +267,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Rain_Splash_Sprite_6
-      rect:
-        serializedVersion: 2
-        x: 928
-        y: 8
-        width: 261
-        height: 73
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66b535c466c671e40800000000000000
-      internalID: 5627085446045719398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Splash_Sprite_7
-      rect:
-        serializedVersion: 2
-        x: 1223
-        y: 5
-        width: 271
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 797b522fb193f7aa0800000000000000
-      internalID: -6161142973030090857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Splash_Sprite_8
-      rect:
-        serializedVersion: 2
-        x: 1359
-        y: 36
-        width: 19
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61ea2d1c719b07540800000000000000
-      internalID: 5003702697695817238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Splash_Sprite_9
-      rect:
-        serializedVersion: 2
-        x: 914
-        y: 20
-        width: 9
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7d2278476661a470800000000000000
-      internalID: 8404110973433163130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Splash_Sprite_10
-      rect:
-        serializedVersion: 2
-        x: 1185
-        y: 13
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d43eb64de7cefe780800000000000000
-      internalID: -8651436329681558707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Splash_Sprite_11
-      rect:
-        serializedVersion: 2
-        x: 1258
-        y: 2
-        width: 22
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: af551d583efe48210800000000000000
-      internalID: 1334455150090212858
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Splash_Sprite_12
-      rect:
-        serializedVersion: 2
-        x: 1525
-        y: 4
-        width: 260
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7cc2082a28bdb6c40800000000000000
-      internalID: 5506736323509103815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9001e70c05994a646b574a9ae714023c
     internalID: 0
     vertices: []
     indices: 
@@ -433,21 +279,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":1.0},"gridSpriteSize":{"x":300.0,"y":300.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Rain_Splash_Sprite_0: 1253794593364987183
       Rain_Splash_Sprite_1: 6917057825869620042
-      Rain_Splash_Sprite_10: -8651436329681558707
-      Rain_Splash_Sprite_11: 1334455150090212858
-      Rain_Splash_Sprite_12: 5506736323509103815
       Rain_Splash_Sprite_2: -8287973952148420432
       Rain_Splash_Sprite_3: -1627762658806382370
       Rain_Splash_Sprite_4: 5039701800950403268
       Rain_Splash_Sprite_5: 3041640264710570807
-      Rain_Splash_Sprite_6: 5627085446045719398
-      Rain_Splash_Sprite_7: -6161142973030090857
-      Rain_Splash_Sprite_8: 5003702697695817238
-      Rain_Splash_Sprite_9: 8404110973433163130
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,12 +160,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 239
-        width: 255
-        height: 47
+        x: 0
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -182,12 +182,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_1
       rect:
         serializedVersion: 2
-        x: 322
-        y: 207
-        width: 252
-        height: 79
+        x: 300
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_2
       rect:
         serializedVersion: 2
-        x: 622
-        y: 166
-        width: 252
-        height: 121
+        x: 600
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,12 +226,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_3
       rect:
         serializedVersion: 2
-        x: 921
-        y: 114
-        width: 254
-        height: 172
+        x: 900
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -248,12 +248,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_4
       rect:
         serializedVersion: 2
-        x: 1221
-        y: 106
-        width: 253
-        height: 181
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -270,12 +270,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_5
       rect:
         serializedVersion: 2
-        x: 1520
-        y: 90
-        width: 255
-        height: 199
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -292,12 +292,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_6
       rect:
         serializedVersion: 2
-        x: 1820
-        y: 222
-        width: 255
-        height: 67
+        x: 1800
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -314,12 +314,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_7
       rect:
         serializedVersion: 2
-        x: 2120
-        y: 249
-        width: 255
-        height: 41
+        x: 2100
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -336,12 +336,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_8
       rect:
         serializedVersion: 2
-        x: 2420
-        y: 252
-        width: 254
-        height: 37
+        x: 2400
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -358,12 +358,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_9
       rect:
         serializedVersion: 2
-        x: 2722
-        y: 253
-        width: 254
-        height: 37
+        x: 2700
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -380,12 +380,12 @@ TextureImporter:
       name: Rain_Dropping_Sprite_10
       rect:
         serializedVersion: 2
-        x: 3020
-        y: 264
-        width: 254
-        height: 26
+        x: 3000
+        y: 0
+        width: 300
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -398,209 +398,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Rain_Dropping_Sprite_11
-      rect:
-        serializedVersion: 2
-        x: 1910
-        y: 80
-        width: 81
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c27297d936b1a600800000000000000
-      internalID: 477863395024073413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Dropping_Sprite_12
-      rect:
-        serializedVersion: 2
-        x: 2243
-        y: 207
-        width: 18
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 793688c69ecfbd050800000000000000
-      internalID: 5826528622412325783
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Dropping_Sprite_13
-      rect:
-        serializedVersion: 2
-        x: 2540
-        y: 195
-        width: 22
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a0135ccf5b72b870800000000000000
-      internalID: 8697149481785954465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Dropping_Sprite_14
-      rect:
-        serializedVersion: 2
-        x: 2846
-        y: 196
-        width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 064e93f910b17a9a0800000000000000
-      internalID: -6221974666408762272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Dropping_Sprite_15
-      rect:
-        serializedVersion: 2
-        x: 2214
-        y: 82
-        width: 81
-        height: 116
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c283cfde4a40e08e0800000000000000
-      internalID: -1725436500822443988
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Dropping_Sprite_16
-      rect:
-        serializedVersion: 2
-        x: 2517
-        y: 79
-        width: 78
-        height: 98
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98eaa26a292b5ef60800000000000000
-      internalID: 8063047050799525513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Dropping_Sprite_17
-      rect:
-        serializedVersion: 2
-        x: 3148
-        y: 174
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dadd79f6531a9e3b0800000000000000
-      internalID: -5482673820469305939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Dropping_Sprite_18
-      rect:
-        serializedVersion: 2
-        x: 2817
-        y: 81
-        width: 76
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3aada09ae2ba33100800000000000000
-      internalID: 86601034743077539
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain_Dropping_Sprite_19
-      rect:
-        serializedVersion: 2
-        x: 3123
-        y: 83
-        width: 71
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d23ba91757507f6c0800000000000000
-      internalID: -4109810132977011923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 341a841f6a378cf47aeb667ac5f21de8
     internalID: 0
     vertices: []
     indices: 
@@ -608,20 +410,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":11.0,"y":1.0},"gridSpriteSize":{"x":300.0,"y":300.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Rain_Dropping_Sprite_0: -2223167130567176359
       Rain_Dropping_Sprite_1: 1740168673020905736
       Rain_Dropping_Sprite_10: -5011538814538496649
-      Rain_Dropping_Sprite_11: 477863395024073413
-      Rain_Dropping_Sprite_12: 5826528622412325783
-      Rain_Dropping_Sprite_13: 8697149481785954465
-      Rain_Dropping_Sprite_14: -6221974666408762272
-      Rain_Dropping_Sprite_15: -1725436500822443988
-      Rain_Dropping_Sprite_16: 8063047050799525513
-      Rain_Dropping_Sprite_17: -5482673820469305939
-      Rain_Dropping_Sprite_18: 86601034743077539
-      Rain_Dropping_Sprite_19: -4109810132977011923
       Rain_Dropping_Sprite_2: 8164418565819104694
       Rain_Dropping_Sprite_3: 3348034545559329391
       Rain_Dropping_Sprite_4: -3225329192553771886
